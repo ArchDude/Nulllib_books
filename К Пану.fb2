@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>К Пану</book-title>
+   <date></date>
+   <lang>ru</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <date></date>
+   <id>FBD-5C1A08-DA93-2346-0E99-D0B2-7E7A-194D6C</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>К Пану</p>
+  </title>
+  <section>
+   <p>Раз в долине я лесной,</p>
+   <p>Ручеёк где пробегал,</p>
+   <p>Наслаждался грёз игрой</p>
+   <p>И тихонько задремал.</p>
+   <empty-line/>
+   <p>Воды разом отступили,</p>
+   <p>Человек-козёл возник,</p>
+   <p>Вместо ног копыта были,</p>
+   <p>Бородой украшен лик.</p>
+   <empty-line/>
+   <p>На сиденье он простом</p>
+   <p>Сладко трели выводил,</p>
+   <p>Я забыл о всём земном -</p>
+   <p>Ибо знал, что Пан то был.</p>
+   <empty-line/>
+   <p>Вкруг сатиры, нимфы встали,</p>
+   <p>Песням радостно внимали.</p>
+   <empty-line/>
+   <p>Пробудясь от сказки сей,</p>
+   <p>Я вернулся в быт людей,</p>
+   <p>Лучше жил бы средь полей,</p>
+   <p>Слыша звуки Пана флейт.</p>
+  </section>
+ </body>
+</FictionBook>
