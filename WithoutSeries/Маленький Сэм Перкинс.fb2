@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>Маленький Сэм Перкинс</book-title>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <date></date>
+   <id>FBD-77E25B-0855-7D43-D38D-5907-2EDE-7F2CF0</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Маленький Сэм Перкинс</p>
+  </title>
+  <section>
+   <p>У сада в этот вечер вид</p>
+   <p>Мрачней невыносимо,</p>
+   <p>Как будто в воздухе стоит</p>
+   <p>Дух гибели незримый.</p>
+   <empty-line/>
+   <p>Качаясь, травы скорбь таят -</p>
+   <p>Им не сказать словами;</p>
+   <p>О лапках память всё хранят,</p>
+   <p>Меж ними что ступали.</p>
+  </section>
+ </body>
+</FictionBook>
