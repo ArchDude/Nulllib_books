@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>На уединённом кладбище Провиденса, где когда-то бродил По</book-title>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <date></date>
+   <id>FBD-93EBF2-95E7-EF47-1DA0-DAAD-ACA6-89A987</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <section>
+   <title>
+    <p>На уединённом кладбище Провиденса, где когда-то бродил По</p>
+   </title>
+   <p>Эта земля под вечными тенями,</p>
+   <p>Давних веков ей видится расцвет;</p>
+   <p>Гордые вязы меж могил ветвями</p>
+   <p>Арки смыкают над мглой прошлых лет.</p>
+   <p>Резвятся памяти лучи кругом,</p>
+   <p>Алые листья шепчут о былом.</p>
+   <empty-line/>
+   <p>Легко плывёт совсем один, в печали,</p>
+   <p>Летучий дух, бродил что здесь в плоти.</p>
+   <p>А смертных взоры призрак замечали?</p>
+   <p>Нет, песнь его сквозь время хоть летит:</p>
+   <p>Постиг кто в тайных чарах волшебство -</p>
+   <p>Они увидят средь могил тень По.</p>
+  </section>
+ </body>
+</FictionBook>

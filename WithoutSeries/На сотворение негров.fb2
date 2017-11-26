@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>На сотворение негров</book-title>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <date></date>
+   <id>FBD-DE5680-77B7-1244-C782-E0E7-499C-29D800</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>На сотворение негров</p>
+  </title>
+  <section>
+   <p>Когда в старь Боги Землю создавали,</p>
+   <p>Юпитера обличье Человеку дали.</p>
+   <p>Затем создали меньший ранг зверей -</p>
+   <p>Но непохожи вышли на людей.</p>
+   <p>Связать с людьми, исправить сей изъян,</p>
+   <p>Замыслили с Олимпа Боги план:</p>
+   <p>С людской фигурой тварь изобрели,</p>
+   <p>Порок вложили, негром нарекли.</p>
+  </section>
+ </body>
+</FictionBook>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>На тщетность человеческих стремлений</book-title>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <date></date>
+   <id>FBD-8620FA-DBD1-8546-CCBF-8EA3-DC54-E1C856</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>На тщетность человеческих стремлений</p>
+  </title>
+  <section>
+   <p>Гонялся Аполлон за Дафной зря:</p>
+   <p>Схватил лишь – стала деревом она.</p>
+   <p>И нынче метят пастушки на злато,</p>
+   <p>Им вещи суетной добиться надо.</p>
+   <p>Но Аполлона случай то как раз:</p>
+   <p>Сокровище добыв, в нём видят грязь.</p>
+   <p>Что люди ищут, поисков не стоит -</p>
+   <p>Однако их ничто не успокоит.</p>
+   <p>А истинное счастье, зрится мне,</p>
+   <p>В безгрешности и развитом уме.</p>
+  </section>
+ </body>
+</FictionBook>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>На развалинах Рима</book-title>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <date></date>
+   <id>FBD-041F93-A19B-814B-80BA-561B-03A0-62A41E</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>На развалинах Рима</p>
+  </title>
+  <section>
+   <p>Что ж ты лежишь, о Рим, под пятою тевтона</p>
+   <p>В рабстве мужи твои, чтут захватчика волю:</p>
+   <p>Город великий, племя где то, что народы повергло,</p>
+   <p>Запад с востоком пред консулами твоими склонив.</p>
+   <p>Непобедимый, сдался ты всем нападавшим?</p>
+   <empty-line/>
+   <p>Мёртв! Лишь отбросы жалкие вместо тебя</p>
+   <p>Мёртв! Тот народ, что империю дал нам</p>
+   <p>Рим, ты всё-ж пал, с гордым племенем, тебя сотворившим,</p>
+   <p>А мы, итальяшки, владеем тем, чего недостойны.</p>
+  </section>
+ </body>
+</FictionBook>

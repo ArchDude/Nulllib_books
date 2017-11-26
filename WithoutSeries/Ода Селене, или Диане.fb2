@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>Ода Селене, или Диане</book-title>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <date></date>
+   <id>FBD-B392CA-5ACB-D44B-A284-82FD-1507-4F4B22</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Ода Селене, или Диане</p>
+  </title>
+  <section>
+   <p>Луна, сверкай ты в девственном сиянье,</p>
+   <p>Лучись, дитя Латоны неземной.</p>
+   <p>В свету твоём крупнеют очертанья,</p>
+   <p>Суровость правды скрыта пеленой.</p>
+   <empty-line/>
+   <p>В сиянии твоём град суетливый,</p>
+   <p>Что в блеске брата твоего убог,</p>
+   <p>Свой нрав меняет, и в тиши счастливой</p>
+   <p>Виденье как блистает, чист и строг.</p>
+   <empty-line/>
+   <p>Мир новый, боль с тревогой где царят,</p>
+   <p>Заводы с шумом, улицы в дыму,</p>
+   <p>Глядит в тебя, Селена, и опять</p>
+   <p>Мечтаем мы, в Халдее как пастух.</p>
+   <empty-line/>
+   <p>Диана, внемли моему прошенью.</p>
+   <p>Туда неси, моё где счастье есть -</p>
+   <p>Наперекор волн времени теченью,</p>
+   <p>Покой души в былом дай мне обресть.</p>
+  </section>
+ </body>
+</FictionBook>

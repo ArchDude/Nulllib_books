@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>На чтение «Книги Чудес» лорда Дансени</book-title>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <date></date>
+   <id>FBD-GJ0IXK6U-TBCU-VRJ6-A027-FEPAWMX6J858</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>На чтение «Книги Чудес» лорда Дансени</p>
+  </title>
+  <section>
+   <poem>
+    <stanza>
+     <v>Часы в ночи летят, как птицы,</v>
+     <v>В камине угольки горят;</v>
+     <v>Проходят тени вереницей -</v>
+     <v>Молчащих демонов парад.</v>
+    </stanza>
+    <stanza>
+     <v>Я уношусь в иные сферы,</v>
+     <v>Читая книгу в тишине,</v>
+     <v>Когда волшебные химеры</v>
+     <v>Чаруют ум и сердце мне.</v>
+    </stanza>
+    <stanza>
+     <v>И я уже не в этом мире -</v>
+     <v>Я вижу, вижу наконец</v>
+     <v>Дворцы и города в эфире</v>
+     <v>И цепь пылающих колец.</v>
+    </stanza>
+   </poem>
+  </section>
+ </body>
+</FictionBook>
