@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>Кошки</book-title>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>FictionBook Editor Release 2.6.6</program-used>
+   <date value="2017-11-26">26 November 2017</date>
+   <id>FBD-UX98O9J5-D4IO-96VC-8CNS-L1RIQI1FXWE1</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Кошки</p>
+  </title>
+  <section>
+   <poem>
+    <stanza>
+     <v>Груды каменьев и блоков разбитых -</v>
+     <v>Вот вавилонской гордыни итог;</v>
+     <v>И ядовитая плесень на плитах</v>
+     <v>Тлеет смертельным огнём вдоль дорог.</v>
+    </stanza>
+    <stanza>
+     <v>Грязные русла мосты перекрыли,</v>
+     <v>Нить паутины связала химер;</v>
+     <v>Бурный поток разложившейся гнили</v>
+     <v>Льётся из хаоса липких пещер.</v>
+    </stanza>
+    <stanza>
+     <v>Блеск и упадок, страданья и крики,</v>
+     <v>Ширясь, безумие чертит круги,</v>
+     <v>Толпы молящихся странны и дики,</v>
+     <v>Мерзостный запах туманит мозги.</v>
+    </stanza>
+    <stanza>
+     <v>Тощие кошки сбиваются в орды</v>
+     <v>В тёмных аллеях при свете луны;</v>
+     <v>Адской гримасой кривятся их морды</v>
+     <v>И завывания всюду слышны.</v>
+    </stanza>
+    <stanza>
+     <v>Улицы в зарослях дикой крапивы,</v>
+     <v>Мыши летучие носятся в них;</v>
+     <v>Как отступающий враг молчаливы</v>
+     <v>Ржавые цепи мостов разводных.</v>
+    </stanza>
+    <stanza>
+     <v>Башни согнулись от лунного света,</v>
+     <v>Ямы залиты болотной водой;</v>
+     <v>Ветер завоет, и вместо ответа -</v>
+     <v>Дьявольских кошек пронзительный вой.</v>
+    </stanza>
+   </poem>
+  </section>
+ </body>
+</FictionBook>
