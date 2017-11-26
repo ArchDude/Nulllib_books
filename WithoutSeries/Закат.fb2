@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>Закат</book-title>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <date></date>
+   <id>FBD-AEA374-96DA-6440-CCAF-E6A2-A7A8-54FCCE</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Закат</p>
+  </title>
+  <section>
+   <p>День ясный краше на своём исходе,</p>
+   <p>Когда поля сиянье золотит;</p>
+   <p>Прохладу предвещает тень природе</p>
+   <p>И морю, что в безмолвии лежит.</p>
+   <empty-line/>
+   <p>В прекрасном свете ласковом таком</p>
+   <p>Впадает в неземное дух блаженство;</p>
+   <p>Без яркой броскости, слепящей днём,</p>
+   <p>Везде открыто взору совершенство.</p>
+   <empty-line/>
+   <p>Но прежде, чем наполнит роскошь луг</p>
+   <p>Иль рощу, ожиданье что снедает,</p>
+   <p>Темнеет, и живая сцена вдруг</p>
+   <p>Лишь память о любви нам оставляет!</p>
+  </section>
+ </body>
+</FictionBook>
