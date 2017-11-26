@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Ãîâàðä</first-name>
+    <middle-name>Ôèëëèïñ</middle-name>
+    <last-name>Ëàâêðàôò</last-name>
+   </author>
+   <book-title>Ê Ïàíó</book-title>
+   <date></date>
+   <lang>ru</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <date></date>
+   <id>FBD-5C1A08-DA93-2346-0E99-D0B2-7E7A-194D6C</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Ê Ïàíó</p>
+  </title>
+  <section>
+   <p>Ðàç â äîëèíå ÿ ëåñíîé,</p>
+   <p>Ðó÷å¸ê ãäå ïðîáåãàë,</p>
+   <p>Íàñëàæäàëñÿ ãð¸ç èãðîé</p>
+   <p>È òèõîíüêî çàäðåìàë.</p>
+   <empty-line/>
+   <p>Âîäû ðàçîì îòñòóïèëè,</p>
+   <p>×åëîâåê-êîç¸ë âîçíèê,</p>
+   <p>Âìåñòî íîã êîïûòà áûëè,</p>
+   <p>Áîðîäîé óêðàøåí ëèê.</p>
+   <empty-line/>
+   <p>Íà ñèäåíüå îí ïðîñòîì</p>
+   <p>Ñëàäêî òðåëè âûâîäèë,</p>
+   <p>ß çàáûë î âñ¸ì çåìíîì -</p>
+   <p>Èáî çíàë, ÷òî Ïàí òî áûë.</p>
+   <empty-line/>
+   <p>Âêðóã ñàòèðû, íèìôû âñòàëè,</p>
+   <p>Ïåñíÿì ðàäîñòíî âíèìàëè.</p>
+   <empty-line/>
+   <p>Ïðîáóäÿñü îò ñêàçêè ñåé,</p>
+   <p>ß âåðíóëñÿ â áûò ëþäåé,</p>
+   <p>Ëó÷øå æèë áû ñðåäü ïîëåé,</p>
+   <p>Ñëûøà çâóêè Ïàíà ôëåéò.</p>
+  </section>
+ </body>
+</FictionBook>
