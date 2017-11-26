@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>Празднество</book-title>
+   <date></date>
+   <lang>ru</lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <date></date>
+   <id>FBD-BB4022-4FED-9244-0D84-C357-4EDF-E5F4AF</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Празднество</p>
+  </title>
+  <section>
+   <p>Снегом крыта земля,</p>
+   <p>Поймы рек холодны,</p>
+   <p>И объяты поля</p>
+   <p>Беспроглядностью тьмы;</p>
+   <p>Но о грешных пирах на вершинах холмов</p>
+   <p>Возвещают огни.</p>
+   <empty-line/>
+   <p>В небе смерти гонцы,</p>
+   <p>Эта ночь так страшна -</p>
+   <p>Славят все мертвецы</p>
+   <p>Завершение дня.</p>
+   <p>И в лесу они дико поют и танцуют вокруг</p>
+   <p>алтаря.</p>
+   <empty-line/>
+   <p>То не ветры земные</p>
+   <p>Лес дубовый качают,</p>
+   <p>Где в деревья гнилые</p>
+   <p>Куст омелы врастает,</p>
+   <p>Ибо силы те тьмы, что могилы друидов забытых</p>
+   <p>Скрывают.</p>
+   <empty-line/>
+   <p>И в деянье таком</p>
+   <p>Ты попом можешь быть,</p>
+   <p>На пиру бесовском</p>
+   <p>Каннибалом завыть,</p>
+   <p>И всему удивлённому миру знак зверя</p>
+   <p>Угрюмо явить.</p>
+  </section>
+ </body>
+</FictionBook>
