@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>Звёздный ужас</book-title>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>FictionBook Editor Release 2.6.6</program-used>
+   <date value="2017-11-26">26 November 2017</date>
+   <id>FBD-UO3OBUKK-LHG4-LI1V-KQCM-Q453NDNBAW48</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Звёздный ужас</p>
+  </title>
+  <section>
+   <poem>
+    <stanza>
+     <v>В чёрном небе наблюдая</v>
+     <v>Белых точек череду,</v>
+     <v>Я заметил вдруг у края</v>
+     <v>Золотистую звезду;</v>
+     <v>И с тех пор живу без сна я -</v>
+     <v>Всё её прихода жду.</v>
+    </stanza>
+    <stanza>
+     <v>Мчался по волнам эфира</v>
+     <v>Луч звезды — и прям, и горд,</v>
+     <v>По всему пространству мира</v>
+     <v>Рай блаженства был простёрт,</v>
+     <v>Разносила звонко лира</v>
+     <v>По Вселенной свой аккорд.</v>
+    </stanza>
+    <stanza>
+     <v>И казалось мне, что где-то</v>
+     <v>Жизнь свободна и легка,</v>
+     <v>Бесконечно длится лето,</v>
+     <v>Словно сон плывут века,</v>
+     <v>Льётся музыка рассвета</v>
+     <v>От волшебного смычка.</v>
+    </stanza>
+    <stanza>
+     <v>Там, я мнил — любви жилище,</v>
+     <v>Пыл вражды давно угас;</v>
+     <v>Там не думают о пище</v>
+     <v>И улыбки — без гримас;</v>
+     <v>У людей там мысли чище</v>
+     <v>И добрее, чем у нас.</v>
+    </stanza>
+    <stanza>
+     <v>Так я думал — и мозги мне</v>
+     <v>Застилал багровый бред,</v>
+     <v>Будто в серой дымке зимней</v>
+     <v>Тихо таял солнца свет;</v>
+     <v>И я слышал в прежнем гимне</v>
+     <v>Чуждый тон грядущих бед.</v>
+    </stanza>
+    <stanza>
+     <v>Цвет звезды из золотого</v>
+     <v>Становился всё красней;</v>
+     <v>На устах застыло слово -</v>
+     <v>Понял я, что стало с ней;</v>
+     <v>И в безумьи начал снова</v>
+     <v>Языком дразниться Змей.</v>
+    </stanza>
+    <stanza>
+     <v>Так меня поймала в клещи</v>
+     <v>Золотистая звезда:</v>
+     <v>Мне заманчивые вещи</v>
+     <v>Показала без стыда</v>
+     <v>И мне в душу страх зловещий</v>
+     <v>Поселила навсегда!</v>
+    </stanza>
+   </poem>
+  </section>
+ </body>
+</FictionBook>
