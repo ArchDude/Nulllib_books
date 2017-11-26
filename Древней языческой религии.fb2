@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>Древней языческой религии</book-title>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <date></date>
+   <id>FBD-6F7080-B9A9-9F46-F39E-1225-4E82-CDB70E</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Древней языческой религии</p>
+  </title>
+  <section>
+   <p>Олимпа Боги! Можно ль вас оставить</p>
+   <p>И пригвоздиться к вере во Христа?</p>
+   <p>Могу ль предать своих богов я ради</p>
+   <p>Терпевшего мучения креста?</p>
+   <empty-line/>
+   <p>И как же в слабости мне уповать</p>
+   <p>На Бога одного, пусть он велик?</p>
+   <p>Ужель мне не поможет Зевса рать</p>
+   <p>В страданиях моих и в грусти миг?</p>
+   <empty-line/>
+   <p>Неужто нет дриад в холмах лесистых,</p>
+   <p>Где часто я брожу совсем один?</p>
+   <p>И нет наяд в источниках сих чистых?</p>
+   <p>И нереид среди морских глубин?</p>
+   <empty-line/>
+   <p>Но никнет вера древности пред новой.</p>
+   <p>Христово имя воздух сотрясает.</p>
+   <p>Моя ж душа, лишённая опоры,</p>
+   <p>Богов в мольбе последней призывает.</p>
+   <empty-line/>
+   <p>Диана, внемли моему прошенью.</p>
+   <p>Туда неси, моё где счастье есть -</p>
+   <p>Наперекор волн времени теченью,</p>
+   <p>Покой души в былом дай мне обресть.</p>
+  </section>
+ </body>
+</FictionBook>
