@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>poetry</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>Лес</book-title>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <date></date>
+   <id>FBD-GANGU74N-KG69-C8W2-6BOP-MTINRF5EHDJ5</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Лес</p>
+  </title>
+  <section>
+   <poem>
+    <stanza>
+     <v>Тот лес как в сказке был дремуч и страшен,</v>
+     <v>Но как-то обитатели его</v>
+     <v>Взошли на небо по ступеням башен</v>
+     <v>И в небе сотворили волшебство.</v>
+    </stanza>
+    <stanza>
+     <v>Прекрасный город — в бесподобном стиле,</v>
+     <v>Какого мы не видели вовек:</v>
+     <v>Взлетали ввысь величественно шпили</v>
+     <v>И купола сверкали, словно снег.</v>
+    </stanza>
+    <stanza>
+     <v>А в залах пели трубы и валторны -</v>
+     <v>Разгул, веселье, пьянка и гульба.</v>
+     <v>Никто ещё не знал, что смерти чёрной</v>
+     <v>Тот город обрекла уже судьба.</v>
+    </stanza>
+    <stanza>
+     <v>Однажды, опьянён вином столовым,</v>
+     <v>Поэт стихи фривольные родил</v>
+     <v>И в них неосторожным грубым словом</v>
+     <v>Старинное проклятье разбудил.</v>
+    </stanza>
+    <stanza>
+     <v>Вот так из-за какого-то поэта</v>
+     <v>Чудесный город навсегда исчез,</v>
+     <v>И в сумерках дрожащего рассвета</v>
+     <v>Стоял, как прежде, страшный тёмный лес.</v>
+    </stanza>
+   </poem>
+  </section>
+ </body>
+</FictionBook>
