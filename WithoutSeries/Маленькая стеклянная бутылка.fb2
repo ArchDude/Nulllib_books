@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+ <description>
+  <title-info>
+   <genre>sf_horror</genre>
+   <author>
+    <first-name>Говард</first-name>
+    <middle-name>Филлипс</middle-name>
+    <last-name>Лавкрафт</last-name>
+   </author>
+   <book-title>Маленькая стеклянная бутылка</book-title>
+   <date></date>
+   <lang>ru</lang>
+   <src-lang>en</src-lang>
+  </title-info>
+  <document-info>
+   <author>
+    <first-name></first-name>
+    <last-name></last-name>
+   </author>
+   <program-used>FictionBook Editor Release 2.6.6</program-used>
+   <date value="2017-11-30">30 November 2017</date>
+   <id>717ED26D-DFEF-4690-9EE6-797B40063FA7</id>
+   <version>1.0</version>
+  </document-info>
+ </description>
+ <body>
+  <title>
+   <p>Маленькая стеклянная бутылка</p>
+  </title>
+  <section>
+   <p>– Лечь в дрейф, там что-то есть с подветренной стороны, – сказал невысокий, плотно сбитый человек по имени Уильям Джонс. Он был капитаном небольшого кэтбота [Небольшая парусная лодка], в котором он и группа людей плыли по морю в тот момент, когда начинается наша история.</p>
+   <p>– Есть, сэр, – ответил Джон Тауэрс, и судно остановилось.</p>
+   <p>Капитан Джонс протянул руку к предмету, который, как он тут же различил, был стеклянной бутылкой.</p>
+   <p>– Всего лишь бутыль из-под рома, которую бросили за борт с проплывавшего корабля, – произнес он, но все же из любопытства вытащил её.</p>
+   <p>Да, это была бутыль из-под рома, и он уже собирался бросить её обратно, когда заметил клочок бумаги внутри. Он вытащил его и прочёл:</p>
+   <empty-line/>
+   <p><emphasis>1 января 1864 г.</emphasis></p>
+   <p><emphasis>Меня зовут Джон Джонс, и сейчас, когда я пишу это письмо, мой корабль стремительно идёт ко дну вместе с сокровищем на борту. Я нахожусь в месте, отмеченном на прилагаемой карте [</emphasis>На карте обозначены Австралия и Индийский океан<emphasis>].</emphasis></p>
+   <empty-line/>
+   <image l:href="#pic_1.jpg"/>
+   <empty-line/>
+   <p>Капитан Джонс перевернул листок. На другой стороне имелась карта, на краю которой были написаны следующие слова:</p>
+   <empty-line/>
+   <p><emphasis>Пунктирные линии означают курс, которым мы шли.</emphasis></p>
+   <empty-line/>
+   <p>– Тауэрс, – возбуждённо воскликнул капитан Джонс. – Прочитайте это.</p>
+   <p>Тауэрс сделал то, что ему было сказано.</p>
+   <p>– Я думаю, нам стоит туда отправиться, – сказал капитан Джонс. – Как ты думаешь?</p>
+   <p>– Как скажете, – ответил Тауэрс.</p>
+   <p>– Мы зафрахтуем шхуну сегодня же, – сказал капитан.</p>
+   <p>– Хорошо, – сказал Тауэрс.</p>
+   <p>И они наняли судно и отправились, руководимые пунктирной линией карты. Через четыре недели они достигли указанного места. Ныряльщики погрузились на дно и вынырнули с железной бутылкой. В ней они нашли кусочек коричневой бумаги с несколькими малоразборчивыми строками.</p>
+   <empty-line/>
+   <p><emphasis>3 декабря 1880 г.</emphasis></p>
+   <p><emphasis>Дорогой искатель сокровищ, прошу меня простить за грубую шутку, которую я сыграл с вами, но вам пойдёт на пользу ничего не получить за свой дурацкий поступок.</emphasis></p>
+   <empty-line/>
+   <p>– Отлично, – сказал капитан Джонс. – Давай дальше.</p>
+   <empty-line/>
+   <p><emphasis>Однако я возмещу ваши издержки на дорогу до того места, где вы нашли вашу бутылку, и обратно. Я думаю, данная сумма должна составить $25.000, и вы найдете её в железной коробке. Я знаю, где вы нашли бутылку, потому что это я положил её вместе с железным ящиком, и затем нашёл хорошее место, где спрятал вторую бутылку. Надеюсь, что приложенные деньги оплатят ваши издержки. На этом заканчиваю. </emphasis></p>
+   <p><emphasis>"Аноним".</emphasis></p>
+   <empty-line/>
+   <p>– Я желал бы расколотить его башку, – сказал капитан Джонс. – Давай, ныряльщик, отправляйся и достань $25.000.</p>
+   <p>Через минуту ныряльщик вернулся с железной коробкой под мышкой. В ней нашли $25.000. Это возместило их затраты, но я не думаю, что они когда-нибудь отправятся в загадочное место, указанное таинственной бутылкой.</p>
+  </section>
+ </body>
+ <binary id="pic_1.jpg" content-type="image/jpeg">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
+2Q==</binary>
+</FictionBook>
